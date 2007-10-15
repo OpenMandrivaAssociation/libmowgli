@@ -1,5 +1,5 @@
 %define name libmowgli
-%define version 0.4.0
+%define version 0.5.0
 %define release %mkrel 1
 
 %define major 1
@@ -10,7 +10,7 @@ Summary: Development framework with high performance algorithms
 Name: %{name}
 Version: %{version}
 Release: %{release}
-Source0: http://distfiles.atheme.org/libmowgli-%version.tgz
+Source0: http://distfiles.atheme.org/libmowgli-%version.tbz2
 License: BSD
 Group: System/Libraries
 Url: http://www.atheme-project.org/projects/mowgli.shtml
