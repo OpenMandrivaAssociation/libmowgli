@@ -14,6 +14,7 @@ Source0: http://distfiles.atheme.org/libmowgli-%version.tbz2
 License: BSD
 Group: System/Libraries
 Url: http://www.atheme-project.org/projects/mowgli.shtml
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 mowgli is a development framework for C (like GLib), which provides
