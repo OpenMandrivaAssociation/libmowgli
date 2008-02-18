@@ -1,5 +1,5 @@
 %define name libmowgli
-%define version 0.6.0
+%define version 0.6.1
 %define release %mkrel 1
 
 %define major 1
