@@ -13,7 +13,7 @@ Release: %{release}
 Source0: http://distfiles.atheme.org/libmowgli-%version.tbz2
 License: BSD
 Group: System/Libraries
-Url: http://www.atheme-project.org/projects/mowgli.shtml
+Url: http://www.atheme.org/project/mowgli
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
