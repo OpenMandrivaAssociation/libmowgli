@@ -5,7 +5,7 @@
 Summary:	Development framework with high performance algorithms
 Name:		libmowgli
 Version:	1.0.0
-Release:	9
+Release:	10
 License:	BSD
 Group:		System/Libraries
 Url:		http://www.atheme.org/project/mowgli
