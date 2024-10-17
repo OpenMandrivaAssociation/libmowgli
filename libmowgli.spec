@@ -8,7 +8,7 @@ Version:	1.0.0
 Release:	12
 License:	BSD
 Group:		System/Libraries
-Url:		http://www.atheme.org/project/mowgli
+Url:		https://www.atheme.org/project/mowgli
 Source0:	http://distfiles.atheme.org/%{name}-%{version}.tar.bz2
 
 %description
